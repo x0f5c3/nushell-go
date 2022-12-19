@@ -1,0 +1,6 @@
+go 1.19
+
+use (
+	./nu-plugin-go
+	./nu-protocol-go
+)
